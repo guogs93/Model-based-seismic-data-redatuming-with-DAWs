@@ -1,0 +1,11 @@
+0                                          	!modeling
+vtrue.bin vinit.bin                         	!velocity model
+acqui_new_datum.txt                             !acquisition
+ricker_bl5.bin                                  !wavelet file
+4 3                                             !peakfreq
+176 851 20 20 4801 0.002 0.002           	!n1 n2 npml h nt dt dto
+0 0                                         	!source/receiver type
+1						!ofs
+1.0e-4                                          !penalty 
+1                                               !ofs
+0.001 500                                       !backward error,maximum iteration number for MINRES

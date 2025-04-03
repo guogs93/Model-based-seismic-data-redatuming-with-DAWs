@@ -1,0 +1,13 @@
+0. prepare acquisition, wavelet, true model and initial model
+   sh input.sh
+   sh ricker_martin.sh
+
+1. sh run_redatum.sh
+
+2. plot_error_data_assimilation.sh compare the result of data-assimilation
+
+3. plot_error_data_redatum.sh compare the result of redatuming
+
+4. plot_wavefield.sh compare the wavefields
+
+5. plot_log.sh compare logs 
