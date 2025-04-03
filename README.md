@@ -2,11 +2,11 @@
 
 This repository contains the source code for model-based seismic data redatuming using time-domain data-assimilated wavefield reconstruction (DAWs).
 
-This code was developed by Gaoshan Guo during the PHD study at CNRS-GEOAZUR labotary, under the supervision of Stephane Operto, supported by the WIND consortium (https://www.geoazur.fr/WIND/bin/view).
+The code was developed by **Gaoshan Guo** during his PhD at the **CNRS–Géoazur laboratory**, under the supervision of **Stéphane Operto**, and supported by the **WIND consortium** ([https://www.geoazur.fr/WIND/bin/view](https://www.geoazur.fr/WIND/bin/view)).
 
-We thanks for the sponser of AkerBP, ExxonMobil, Petrobras, Shell, and SINOPEC.
+We gratefully acknowledge the sponsorship of **AkerBP, ExxonMobil, Petrobras, Shell**, and **SINOPEC**.
 
-The method implements advanced time-domain seismic redatuming with data-assimilated wavefield reconstruction. It is designed for high-performance computing environments and tested on various supercomputing platforms.
+The method implements advanced time-domain seismic redatuming with data-assimilated wavefield reconstruction. It is designed for high-performance computing environments and has been tested on various supercomputing platforms.
 
 ## Usage
 
