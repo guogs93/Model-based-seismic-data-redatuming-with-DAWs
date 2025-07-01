@@ -15,6 +15,13 @@ This code is intended for researchers working in seismic redatuming of marine se
 To clean compiled objects and binaries, run:
 make clean && make all
 
+## License
+Academic Use Only
+This software is provided for non-commercial academic research purposes only.
+Commercial use is strictly prohibited without explicit permission from the authors.
+
+See the LICENSE file for details.
+
 ## Citation
 
 If you use this code in your research or publication, please cite the following paper:
@@ -32,11 +39,3 @@ If you use this code in your research or publication, please cite the following 
     issn = {1365-246X},
     doi = {10.1093/gji/ggaf133},
 }
-
-
-## License
-Academic Use Only
-This software is provided for non-commercial academic research purposes only.
-Commercial use is strictly prohibited without explicit permission from the authors.
-
-See the LICENSE file for details.
