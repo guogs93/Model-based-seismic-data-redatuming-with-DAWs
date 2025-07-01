@@ -19,7 +19,19 @@ make clean && make all
 
 If you use this code in your research or publication, please cite the following paper:
 
-Gaoshan Guo, Stéphane Operto, Model-based seismic data redatuming with time-domain data-assimilated wavefield reconstruction, Geophysical Journal International, 2025, in press.
+@article{10.1093/gji/ggaf133,
+    author = {Guo, Gaoshan and Operto, Stéphane},
+    title = {Model-based seismic data redatuming with time-domain data-assimilated wavefield reconstruction},
+    journal = {Geophysical Journal International},
+    volume = {242},
+    number = {2},
+    pages = {ggaf133},
+    year = {2025},
+    month = {06},
+    issn = {1365-246X},
+    doi = {10.1093/gji/ggaf133},
+}
+
 
 ## License
 Academic Use Only
