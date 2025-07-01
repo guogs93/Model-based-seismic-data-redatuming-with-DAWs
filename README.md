@@ -19,6 +19,7 @@ make clean && make all
 
 If you use this code in your research or publication, please cite the following paper:
 
+```bibtex
 @article{10.1093/gji/ggaf133,
     author = {Guo, Gaoshan and Operto, Stéphane},
     title = {Model-based seismic data redatuming with time-domain data-assimilated wavefield reconstruction},
